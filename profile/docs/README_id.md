@@ -20,12 +20,12 @@ Kami menyediakan fitur utama berikut:
 
 | Nama | DBS ID | Learning Path |
 |------|------------|---------------|
-| [Yudha Rizky Alvingky] | [FC156D5Y1387] | Front-End dan Back-End Developer |
-| [Wisnu Nugroho] | [FC156D5Y1388] | Front-End dan Back-End Developer |
-| [Rizky Hilmiawan Anggoro] | [FC156D5Y1771] | Front-End dan Back-End Developer |
-| [Bagas Cahyawiguna] | [MC246D5Y2090] | Machine Learning Engineer |
-| [Alfanah Muhson Husain Nugroho] | [MC012D5Y2096] | Machine Learning Engineer |
-| [Muhamad Fahmi] | [MC246D5Y2423] | Machine Learning Engineer |
+| [Yudha Rizky Alvingky](https://github.com/Yudhriz) | FC156D5Y1387 | Front-End dan Back-End Developer |
+| [Wisnu Nugroho](https://github.com/Wisnugroho14) | FC156D5Y1388 | Front-End dan Back-End Developer |
+| [Rizky Hilmiawan Anggoro](https://github.com/hilmiii) | FC156D5Y1771 | Front-End dan Back-End Developer |
+| [Bagas Cahyawiguna](https://github.com/bagascahyawiguna) | MC246D5Y2090 | Machine Learning Engineer |
+| [Alfanah Muhson Husain Nugroho](https://github.com/Alfan345) | MC012D5Y2096 | Machine Learning Engineer |
+| [Muhamad Fahmi](https://github.com/MuhamadFahmi284) | MC246D5Y2423 | Machine Learning Engineer |
 
 ## 📂 Repositori Kami
 
